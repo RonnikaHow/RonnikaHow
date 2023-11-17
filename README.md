@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonnikaHow
 - 👀 I’m interested in logistics
-- 🌱 I’m currently learning to using github in my work now
+- 🌱 I’m currently learning to use github in my work now
 - 💞️ I’m looking to collaborate on some logistics projects
 - 📫 How to reach me ...
 
